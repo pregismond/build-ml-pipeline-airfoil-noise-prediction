@@ -6,6 +6,8 @@
 
 This repository contains my final project submission for **[IBM Skills Network - Coursera: Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark)**
 
+The contents of this README.md and the Final_Project.ipnb Jupyter Notebook are based on the course material and have been modified for readability and code explaination.
+
 ## Project Scenario
 
 As a data engineer at an aeronautics consulting company, we take pride in our ability to efficiently design airfoils for use in both planes and sports cars. While our data scientists excel at Machine Learning, they rely on me to handle ETL (Extract, Transform, Load) tasks and construct ML pipelines.
