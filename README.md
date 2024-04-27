@@ -6,8 +6,6 @@
 
 This repository contains my final project submission for **[IBM Skills Network - Coursera: Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark)**
 
-The contents of this README.md and the Final_Project.ipnb Jupyter Notebook are based on the course material and have been modified for readability and code explaination.
-
 ## Project Scenario
 
 As a data engineer at an aeronautics consulting company, we take pride in our ability to efficiently design airfoils for use in both planes and sports cars. While our data scientists excel at Machine Learning, they rely on me to handle ETL (Extract, Transform, Load) tasks and construct ML pipelines.
@@ -29,26 +27,30 @@ The dataset is licensed under a Creative Commons Attribution 4.0 International (
 
 ## Notes
 
-The metric values presented in the `Final_Project.ipynb` notebook can vary across different Python versions. These variations may occur due to changes in underlying libraries, algorithms, or default behavior. To ensure successful completion of the **Quiz: Final Project - Evaluation Submitted**, it is essential to complete this project using the Python version available in the Skill Network Labs (SN Labs) environment. 
+The metric values presented in the `Final_Project.ipynb` notebook can vary across different Python versions. These variations may occur due to changes in underlying libraries, algorithms, or default behavior. To ensure successful completion of the **Quiz: Final Project - Evaluation Submitted**, it is essential to complete this project using the Python version available in the Skill Network Labs (SN Labs) environment. Python 3.7.12.
 
 ## Usage
 
 Install the required libraries using the provided `requirements.txt` file. The command syntax is:
+
 ```bash
 python3 -m pip install -r requirements.txt
 ```
 
 Download the required exchange rate file using the terminal command:
+
 ```bash
 wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-BD0231EN-Coursera/datasets/NASA_airfoil_noise_raw.csv
 ```
 
 Create folder to save model:
+
 ```bash
 mkdir -p Final_Project
 ```
 
 Execute the code using the command:
+
 ```bash
 python3 Final_Project.py
 ```
