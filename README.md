@@ -25,6 +25,14 @@ The original dataset can be found here: NASA Airfoil Self-Noise dataset. https:/
 
 The dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
+Diagram of an airfoil (Source: IBM Skills Network).
+
+![Airfoil with flow](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-BD0231EN-Coursera/images/Airfoil_with_flow.png)
+
+Diagram showing the Angle of attack (Source: IBM Skills Network).
+
+![Airfoil angle of attack](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-BD0231EN-Coursera/images/Airfoil_angle_of_attack.jpg)
+
 ## Notes
 
 The metric values presented in the `Final_Project.ipynb` notebook can vary across different Python versions. These variations may occur due to changes in underlying libraries, algorithms, or default behavior. To ensure successful completion of the **Quiz: Final Project - Evaluation Submitted**, it is essential to complete this project using the Python version available in the Skill Network Labs (SN Labs) environment. Python 3.7.12.
