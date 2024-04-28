@@ -45,7 +45,7 @@ Install the required libraries using the provided `requirements.txt` file. The c
 python3 -m pip install -r requirements.txt
 ```
 
-Download the required exchange rate file using the terminal command:
+Download the required `NASA_airfoil_noise_raw.csv` file using the terminal command:
 
 ```bash
 wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-BD0231EN-Coursera/datasets/NASA_airfoil_noise_raw.csv
