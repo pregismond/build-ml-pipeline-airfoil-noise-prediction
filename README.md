@@ -6,7 +6,7 @@
 
 ## Disclaimer
 
-This repository contains my submission for the ***Final Project: Build a Machine Learning Pipeline for Airfoil Noise Prediction***. The original files were provided by the IBM Skills Network as part of the **[Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark)** course on **[Coursera](https://www.coursera.org)**. I have made modifications to fulfill the project requirements.
+This repository contains my submission for the ***Final Project: Build a Machine Learning Pipeline for Airfoil Noise Prediction***. The original files were provided by the IBM Skills Network as part of the **[Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark)** course on Coursera. I have made modifications to fulfill the project requirements.
 
 ### Usage
 
