@@ -4,7 +4,15 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-0D76A8?style=flat)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.7.12](https://img.shields.io/badge/Python-3.7.12-green.svg)](https://shields.io/)
 
-This repository contains my final project submission for **[IBM Skills Network - Coursera: Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark)**
+## Disclaimer
+
+This repository contains my submission for the ***Final Project: Build a Machine Learning Pipeline for Airfoil Noise Prediction***. The original files were provided by the IBM Skills Network as part of the **[Machine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark)** course on **[Coursera](https://www.coursera.org)**. I have made modifications to fulfill the project requirements.
+
+### Usage
+
+* You are welcome to use this repository as a reference or starting point for your own project.
+
+* If you choose to fork this repository, please ensure that you comply with the terms of the Apache License and give proper credit to the original authors.
 
 ## Project Scenario
 
@@ -37,7 +45,7 @@ Diagram showing the Angle of attack (Source: IBM Skills Network).
 
 The metric values presented in the `Final_Project.ipynb` notebook can vary across different Python versions. These variations may occur due to changes in underlying libraries, algorithms, or default behavior. To ensure successful completion of the **Quiz: Final Project - Evaluation Submitted**, it is essential to complete this project using the Python version available in the Skill Network Labs (SN Labs) environment. Python 3.7.12.
 
-## Usage
+## Setup
 
 Install the required libraries using the provided `requirements.txt` file. The command syntax is:
 
@@ -67,8 +75,6 @@ python3 Final_Project.py
 
 [Pravin Regismond](https://www.linkedin.com/in/pregismond)
 
-## Instructor
+## Acknowledgments
 
-[Ramesh Sannareddy](https://www.coursera.org/instructor/~75088416), Data Engineering Subject Matter Expert, @ IBM
-
-## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
+* IBM Skills Network © IBM Corporation 2023. All rights reserved.
